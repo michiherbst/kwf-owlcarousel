@@ -5,14 +5,14 @@
     "license": "BSD-2-Clause",
     "type": "library",
     "require": {
-        "koala-framework/koala-framework": "~4.0"
+        "koala-framework/koala-framework": "~4.5"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
     "extra": {
         "require-bower": {
-            "owl.carousel": "660ae446b5495e9ce7ddde6ec92b9619ae52ca8e"
+            "owl.carousel": "2.2.1"
         },
         "require-dev-bower": {
             "qunit": "1.14.0",
